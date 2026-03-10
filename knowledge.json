@@ -1,0 +1,14 @@
+[
+  {
+    "pergunta": "O que e a empresa?",
+    "resposta": "A empresa oferece solucoes digitais para negocios."
+  },
+  {
+    "pergunta": "Quais servicos sao oferecidos?",
+    "resposta": "Desenvolvimento de sites, sistemas web e aplicativos."
+  },
+  {
+    "pergunta": "Como entrar em contato?",
+    "resposta": "Entre em contato pelo email suporte@empresa.com ou telefone (00) 0000-0000."
+  }
+]
