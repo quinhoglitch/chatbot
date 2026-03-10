@@ -1,6 +1,6 @@
 # Pacote Padrão do Chatbot
 
-Este pacote permite instalar o chatbot em qualquer site de forma rÃ¡pida e organizada.
+Este pacote permite instalar o chatbot em qualquer site de forma rapida e organizada.
 
 ## O que esta¡ incluso
 
@@ -22,11 +22,12 @@ Este pacote permite instalar o chatbot em qualquer site de forma rÃ¡pida e org
    - publique `widget/chat-widget.css`
 
 3. Insira o snippet:
-   - cole o conteÃºdo de `integration/snippet.html` no HTML do site
+   - cole o conteudo de `integration/snippet.html` no HTML do site
 
 ## Observações importantes
 
-- Se a API estiver em outro domÃ­nio, ajuste `CHAT_API_URL` em `integration/snippet.html`.
+- Se a API estiver em outro domi­nio, ajuste `CHAT_API_URL` em `integration/snippet.html`.
 - Por padrão, o widget aponta para `"/api/chat"` (mesmo domi­nio).
+
 
 
