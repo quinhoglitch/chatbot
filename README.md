@@ -1,15 +1,15 @@
-# Pacote PadrÃ£o do Chatbot
+# Pacote Padrão do Chatbot
 
 Este pacote permite instalar o chatbot em qualquer site de forma rÃ¡pida e organizada.
 
-## O que estÃ¡ incluso
+## O que esta¡ incluso
 
 - `widget/chat-widget.js` (script do widget)
 - `widget/chat-widget.css` (estilos do widget)
 - `backend-chat/` (API em `/api/chat`)
 - `integration/snippet.html` (trecho para inserir no site)
 
-## InstalaÃ§Ã£o em 3 passos
+## Instalação em 3 passos
 
 1. Publique a API (`backend-chat`):
    - copie `.env.example` para `.env`
@@ -24,9 +24,9 @@ Este pacote permite instalar o chatbot em qualquer site de forma rÃ¡pida e org
 3. Insira o snippet:
    - cole o conteÃºdo de `integration/snippet.html` no HTML do site
 
-## ObservaÃ§Ãµes importantes
+## Observações importantes
 
 - Se a API estiver em outro domÃ­nio, ajuste `CHAT_API_URL` em `integration/snippet.html`.
-- Por padrÃ£o, o widget aponta para `"/api/chat"` (mesmo domÃ­nio).
+- Por padrão, o widget aponta para `"/api/chat"` (mesmo domi­nio).
 
-Assinatura: https://github.com/quinhoglitch
+
